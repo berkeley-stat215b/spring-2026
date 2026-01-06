@@ -1,6 +1,6 @@
 ---
-title: "Statistics 215b: Statistical Models: Theory and Application"
-subtitle: "UC Berkeley, Spring 2026"
+title: "{{< var department >}} {{< var number >}}: {{< var name >}}"
+subtitle: "UC Berkeley, {{< var semester >}}"
 listing:
   # - id: schedule
   #   template: assets/schedule.ejs
