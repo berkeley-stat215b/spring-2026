@@ -1,0 +1,104 @@
+---
+title: "Homeworks for 156"
+---
+
+# Navigation
+
+- [Homework 1](#homework-1)
+- [Homework 2](#homework-2)
+- [Homework 3](#homework-3)
+- [Homework 4](#homework-4)
+- [Homework 5](#homework-5)
+- [Homework 6](#homework-6)
+
+
+# Homework 1
+
+**Due**: <span style="color:red">9/10/2024 11.59pm PT</span>
+
+
+- [Download PDF](./HW1.pdf)
+
+<embed
+	src="./HW1.pdf"
+	type="application/pdf"
+	width="100%"
+	height="500px"
+	title="Embedded PDF Viewer"
+/>
+
+# Homework 2
+
+**Due**: <span style="color:red">9/24/2024 11.59pm PT</span>
+
+
+- [Download PDF](./HW2.pdf)
+
+<embed
+	src="./HW2.pdf"
+	type="application/pdf"
+	width="100%"
+	height="500px"
+	title="Embedded PDF Viewer"
+/>
+
+# Homework 3
+
+**Due**: <span style="color:red">10/08/2024 11.59pm PT</span>
+
+
+- [Download PDF](./HW3.pdf)
+
+<embed
+	src="./HW3.pdf"
+	type="application/pdf"
+	width="100%"
+	height="500px"
+	title="Embedded PDF Viewer"
+/>
+
+# Homework 4
+
+**Due**: <span style="color:red">10/22/2024 11.59pm PT</span>
+
+
+- [Download PDF](./HW4.pdf)
+
+<embed
+	src="./HW4.pdf"
+	type="application/pdf"
+	width="100%"
+	height="500px"
+	title="Embedded PDF Viewer"
+/>
+
+
+# Homework 5
+
+**Due**: <span style="color:red">11/12/2024 11.59pm PT</span>
+
+
+- [Download PDF](./HW5.pdf)
+
+<embed
+	src="./HW5.pdf"
+	type="application/pdf"
+	width="100%"
+	height="500px"
+	title="Embedded PDF Viewer"
+/>
+
+# Homework 6
+
+**Due**: <span style="color:red">11/26/2024 11.59pm PT</span>
+
+
+- [Download PDF](./HW6.pdf)
+
+<embed
+	src="./HW6.pdf"
+	type="application/pdf"
+	width="100%"
+	height="500px"
+	title="Embedded PDF Viewer"
+/>

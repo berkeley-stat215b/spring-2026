@@ -1,0 +1,19 @@
+---
+title: "Video Paper Presentations for 256"
+---
+
+# Navigation
+
+- [Guidelines](#guidelines)
+
+# Guidelines
+
+- [Download PDF](./VideoGuidelines.pdf)
+
+<embed
+	src="./VideoGuidelines.pdf"
+	type="application/pdf"
+	width="100%"
+	height="500px"
+	title="Embedded PDF Viewer"
+/>

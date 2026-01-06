@@ -1,0 +1,19 @@
+---
+title: "Project for 156/256"
+---
+
+# Navigation
+
+- [Project Guidelines](#guidelines)
+
+# Guidelines
+
+- [Download PDF](./ProjectGuidelines.pdf)
+
+<embed
+	src="./ProjectGuidelines.pdf"
+	type="application/pdf"
+	width="100%"
+	height="500px"
+	title="Embedded PDF Viewer"
+/>
