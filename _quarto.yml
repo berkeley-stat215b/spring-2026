@@ -18,15 +18,15 @@ website:
         text: Syllabus
       - href: staff.qmd
         text: Staff
-      - href: calendar.qmd
-        text: Calendar
-      - section: "Units"
-        contents:
-          - units/unit1.qmd
-          - units/unit2.ipynb
-          - units/unit3.qmd
-      - href: data.qmd
-        text: Datasets
+      # - href: calendar.qmd
+      #   text: Calendar
+      # - section: "Units"
+      #   contents:
+      #     - units/unit1.qmd
+      #     - units/unit2.ipynb
+      #     - units/unit3.qmd
+      # - href: data.qmd
+      #   text: Datasets
       - href: license.qmd
         text: License
           

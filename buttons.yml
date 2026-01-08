@@ -1,3 +1,6 @@
 - button: Gradescope
-  link: https://www.gradescope.com/courses/817529
+  link: https://www.gradescope.com/courses/1211232
   color: orange
+- button: Ed Discussion
+  link: https://edstem.org/us/courses/91043
+  color: blue

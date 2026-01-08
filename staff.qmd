@@ -11,17 +11,16 @@ Office hours are subject to change.
 ::: {.g-col-4}
 **Instructor:** <a href="https://statistics.berkeley.edu/people/amanda-coston" target='_blank'>Amanda Coston</a><br>
 `acoston@berkeley.edu`<br>
-Office hours: <br>
-• Thursday 4:00-5:00 PM, Evans 427 <br>
+Office hours: TBD<br>
+• ,  <br>
 :::
 
 ::: {.g-col-4}
-**GSI**: <a href="https://www.linkedin.com/in/mingrui-zhang-785489263/" target="_blank">Mingrui Zhang</a><br>
-`mingrui_zhang@berkeley.edu`<br>
-Office hours: TBD<br>
-• Mondays: 2:00-4:00 PM, Evans 428 <br>
-• Tuesdays: 9:00-11:00 AM, Evans 428
-
+**GSI**: Nicolas Sanchez<br>
+`nicolas_sanchez_ep@berkeley.edu`<br>
+Office hours: <br>
+• Tuesday: 3:30-4:30 PM, Evans 428 <br>
+• Tuesdays: 1:00-2:00 PM, Evans 428
 :::
 
 :::
