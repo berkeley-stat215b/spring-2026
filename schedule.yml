@@ -5,7 +5,7 @@
         - type:  "Lecture"
           id: "1"
           name: Syllabus
-          href: "./215_syllabus.pdf"
+          href: "./215_Syllabus.pdf"
     - date: "Jan 22"
       items:
         - type: "Lecture"
