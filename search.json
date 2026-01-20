@@ -42,7 +42,7 @@
     "href": "staff.html",
     "title": "Staff",
     "section": "",
-    "text": "Office hours are subject to change.\n\n\n\nInstructor: Amanda Coston acoston@berkeley.edu Office hours: TBD • , \n\n\nGSI: Nicolas Sanchez nicolas_sanchez_ep@berkeley.edu Office hours:  • Tuesday: 3:30-4:30 PM, Evans 428  • Tuesdays: 1:00-2:00 PM, Evans 428",
+    "text": "Office hours are subject to change.\n\n\n\nInstructor: Amanda Coston acoston@berkeley.edu Office hours: Thursday 3:30-4:30pm, Evans 1011\n\n\nGSI: Nicolas Sanchez nicolas_sanchez_ep@berkeley.edu Office hours:  • Tuesday: Noon-1:00 PM, Evans 444  • Wednesday: 1:00-2:00 PM, Evans 444",
     "crumbs": [
       "Staff"
     ]
@@ -59,7 +59,7 @@
     "href": "units/unit3.html#evaluated-python-code-chunk-with-a-plot",
     "title": "Unit 3: More",
     "section": "Evaluated Python code chunk, with a plot",
-    "text": "Evaluated Python code chunk, with a plot\n\n\nCode\nimport numpy as np\nx = np.random.normal(size=100)\nimport matplotlib.pyplot as plt\nplt.hist(x)\nplt.show()\nnp.mean(x)\n\n\n\n\n\n\n\n\n\nnp.float64(0.3080787158393539)"
+    "text": "Evaluated Python code chunk, with a plot\n\n\nCode\nimport numpy as np\nx = np.random.normal(size=100)\nimport matplotlib.pyplot as plt\nplt.hist(x)\nplt.show()\nnp.mean(x)\n\n\n\n\n\n\n\n\n\nnp.float64(-0.03535502210302077)"
   },
   {
     "objectID": "units/unit3.html#latex",
@@ -146,7 +146,7 @@
     "href": "units/unit1.html#evaluated-python-code-chunk-with-a-plot",
     "title": "Unit 1: Intro",
     "section": "Evaluated Python code chunk, with a plot",
-    "text": "Evaluated Python code chunk, with a plot\n\n\nCode\nimport numpy as np\nx = np.random.normal(size=100)\nimport matplotlib.pyplot as plt\nplt.hist(x)\nplt.show()\nnp.mean(x)\n\n\n\n\n\n\n\n\n\nnp.float64(-0.13593640721908473)"
+    "text": "Evaluated Python code chunk, with a plot\n\n\nCode\nimport numpy as np\nx = np.random.normal(size=100)\nimport matplotlib.pyplot as plt\nplt.hist(x)\nplt.show()\nnp.mean(x)\n\n\n\n\n\n\n\n\n\nnp.float64(-0.05797679915264063)"
   },
   {
     "objectID": "units/unit1.html#latex",
