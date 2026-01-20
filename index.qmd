@@ -2,9 +2,9 @@
 title: "{{< var department >}} {{< var number >}}: {{< var name >}}"
 subtitle: "UC Berkeley, {{< var semester >}}"
 listing:
-  # - id: schedule
-  #   template: assets/schedule.ejs
-  #  contents: schedule.yml
+  - id: schedule
+    template: assets/schedule.ejs
+    contents: schedule.yml
   - id: buttons
     template: assets/buttons.ejs
     contents: buttons.yml
@@ -21,4 +21,7 @@ Welcome to 215B! Some quick setup instructions:
 - For Gradescope: use the course code **X8GP76** to join the class on Gradescope
 
 Also refer to the syllabus page for the full syllabus.
+:::
+
+::: {#schedule}
 :::

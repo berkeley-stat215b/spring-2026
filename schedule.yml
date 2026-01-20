@@ -1,46 +1,42 @@
 - week: 1
   days:
-    - date: "Aug 24"
+    - date: "Jan 20"
+      items:
+        - type:  "Lecture"
+          id: "1"
+          name: Syllabus
+          href: "./215_syllabus.pdf"
+    - date: "Jan 22"
       items:
         - type: "Lecture"
+          id: "2"
+        - type: "Reading"
           id: "1"
-          name: Introduction
-          href: "./units/unit1.html"
-          auxil:
-            - id: "Note 1"
-              href: "https://berkeley.edu"
-            - id: "Note 2"
-              href: "https://berkeley.edu"
-        - type: "Participation"
-          id: "1"
-          name: Lecture Participation 1
-          href: "https://berkeley.edu"
-    - date: "Aug 25"
-      items:
-        - type: "Lab"
-          id: "1"
-          name: Prerequisite Coding (due Aug 29)
-          href: "https://berkeley.edu"
-        - type: "Homework"
-          id: "1A"
-          name: Plotting and Permutation Test (due Aug 31)
-          href: "https://berkeley.edu"
-        - type: "Homework"
-          id: "1B"
-          name: Prerequisite Math (due Aug 31)
-          href: "https://berkeley.edu"
+          name: Google Flu Parable
+          href: "./google-flu-parable.pdf"
 - week: 2
   days:
-    - date: "Aug 29"
+    - date: "Jan 27"
       items:
         - type: "Lecture"
+          id: "3"
+        - type: "Reading"
           id: "2"
-          name: Pandas 1
-          href: "./units/unit2.html"
-        - type: "Participation"
-          id: "2"
-          name: Lecture Participation 2
-          href: "./units/unit3.html"
-          auxil:
-            id: "Note 2"
-            href: "https://berkeley.edu"
+          name: Dissecting Racial Bias
+          href: "./dissecting-racial-bias.pdf"
+        - type: "Reading"
+          id: "3"
+          name: Freedman's Statistical Models - Shoe Leather
+          href: "./Freedman-StatisticalModelsShoe-1991.pdf"
+    - date: "Jan 29"
+      items:
+        - type: "Lecture"
+          id: "4"
+        - type: "Reading"
+          id: "4"
+          name: Prediction Policy Problems
+          href: "./prediction_policy_problems.pdf"
+        - type: "Reading"
+          id: "5"
+          name: Pay No Attention to Model Behind the Curtain
+          href: "./Stark_curtain.pdf"
