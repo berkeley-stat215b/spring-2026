@@ -1,5 +1,112 @@
 [
   {
+    "objectID": "data.html",
+    "href": "data.html",
+    "title": "Data",
+    "section": "",
+    "text": "[UNDER CONSTRUCTION]\nWe’ll use data from several real world situations in class."
+  },
+  {
+    "objectID": "data.html#data-1",
+    "href": "data.html#data-1",
+    "title": "Data",
+    "section": "Data 1",
+    "text": "Data 1"
+  },
+  {
+    "objectID": "data.html#data-2",
+    "href": "data.html#data-2",
+    "title": "Data",
+    "section": "Data 2",
+    "text": "Data 2"
+  },
+  {
+    "objectID": "calendar.html",
+    "href": "calendar.html",
+    "title": "Calendar",
+    "section": "",
+    "text": "[UNDER CONSTRUCTION]\nWe can just embed the iframe html:"
+  },
+  {
+    "objectID": "license.html",
+    "href": "license.html",
+    "title": "License",
+    "section": "",
+    "text": "This work is licensed under a Creative Commons Attribution 4.0 International License.",
+    "crumbs": [
+      "License"
+    ]
+  },
+  {
+    "objectID": "staff.html",
+    "href": "staff.html",
+    "title": "Staff",
+    "section": "",
+    "text": "Office hours are subject to change.\n\n\n\nInstructor: Amanda Coston acoston@berkeley.edu Office hours: Thursday 3:30-4:30pm, Evans 1011\n\n\nGSI: Nicolas Sanchez nicolas_sanchez_ep@berkeley.edu Office hours:  • Tuesday: Noon-1:00 PM, Evans 444  • Wednesday: 1:00-2:00 PM, Evans 444",
+    "crumbs": [
+      "Staff"
+    ]
+  },
+  {
+    "objectID": "units/unit3.html",
+    "href": "units/unit3.html",
+    "title": "Unit 3: More",
+    "section": "",
+    "text": "[UNDER CONSTRUCTION]\nThis is an example of using qmd as the source document with pdf as one target. I’ve taken out the qmd stuff that doesn’t seem to render to pdf."
+  },
+  {
+    "objectID": "units/unit3.html#evaluated-python-code-chunk-with-a-plot",
+    "href": "units/unit3.html#evaluated-python-code-chunk-with-a-plot",
+    "title": "Unit 3: More",
+    "section": "Evaluated Python code chunk, with a plot",
+    "text": "Evaluated Python code chunk, with a plot\n\n\nCode\nimport numpy as np\nx = np.random.normal(size=100)\nimport matplotlib.pyplot as plt\nplt.hist(x)\nplt.show()\nnp.mean(x)\n\n\n\n\n\n\n\n\n\nnp.float64(0.09189300087143672)"
+  },
+  {
+    "objectID": "units/unit3.html#latex",
+    "href": "units/unit3.html#latex",
+    "title": "Unit 3: More",
+    "section": "LaTeX",
+    "text": "LaTeX\n\\[\n\\theta = \\int_0^\\infty f(x,\\theta)d\\theta\n\\]"
+  },
+  {
+    "objectID": "units/unit3.html#latex-macro",
+    "href": "units/unit3.html#latex-macro",
+    "title": "Unit 3: More",
+    "section": "LaTeX macro",
+    "text": "LaTeX macro\n\nWarning: having include-before-body in the yaml header of this file, as seemingly needed to enable macros, causes extra space at top of page.\n\n\\[\nA = X \\trans Y\n\\]"
+  },
+  {
+    "objectID": "units/macros.html",
+    "href": "units/macros.html",
+    "title": "",
+    "section": "",
+    "text": "\\[\n\\newcommand{\\trans}{^\\mathsf{T}}\n\\newcommand{\\eps}{\\epsilon}\n\\]"
+  },
+  {
+    "objectID": "assignments.html",
+    "href": "assignments.html",
+    "title": "Reading assignments for 256",
+    "section": "",
+    "text": "Evaluation\nEach week those of you in 256 will read research papers and write a report describing the research and your evaluation of the work. Each report should be 2-3 pages double-spaced. See below for the list of papers and due dates. You will submit your report on gradescope.\nThe reports will be graded based on  • Correct identification of the research question  • Accurate summary of the method used in the papers  • Clear summary of the key results  • Thoughtful overall evaluation of the paper (e.g., evaluating the significance, novelty, relevance of the contribution)\n\n\nPapers\n\n\n\nReading\nLink\nDue date\n\n\n\n\nBickel et al 1975 Science: Sex Bias in Graduate Admissions: Data from Berkeley\nLink\n9/10/24\n\n\nHolland 1986 JASA Statistics and Causal Inference\nLink\n9/17/24\n\n\nMiratrix 2013 JRSSB Adjusting treatment effect estimates by post-stratication in randomized experiments\nLink\n9/24/24\n\n\nLin 2013 AOAS: Agnostic notes on regression adjustments to experimental data: Reexamining Freedmans critique\nLink\n10/01/24\n\n\nLi, Ding and Rubin 2018 PNAS Asymptotic theory of rerandomization in treatment-control experiments\nLink\n10/08/24\n\n\nRosenbaum and Rubin 1983 Biometrika: The central role of the propensity score in observational studies for causal effects\nLink\n10/15/24\n\n\nLunceford and Davidian 2004 SiM Stratification and weighting via the propensity score in estimation of causal treatment effects: a comparative study\nLink\n10/22/24\n\n\nAngrist Imbens and Rubin 1996 JASA Identification of causal effects using instrumental variables\nLink\n10/29/24\n\n\nImbens 2014 StatSci Instrumental Variables: An Econometricians Perspective\nLink\n11/5/24\n\n\nDing and VanderWeele 2016 Epidemiology: Sensitivity Analysis Without Assumptions\nLink\n11/12/24\n\n\nPearl 1995 Biometrika Causal diagrams for empirical research\nLink\n11/19/24\n\n\nFrangakis and Rubin 2002 Biometrics Principal stratification in causal inference\nLink\n11/26/24"
+  },
+  {
+    "objectID": "homeworks.html",
+    "href": "homeworks.html",
+    "title": "Homeworks for 156",
+    "section": "",
+    "text": "Navigation\n\nHomework 1\nHomework 2\nHomework 3\nHomework 4\nHomework 5\nHomework 6\n\n\n\nHomework 1\nDue: 9/10/2024 11.59pm PT\n\nDownload PDF\n\n\n\n\nHomework 2\nDue: 9/24/2024 11.59pm PT\n\nDownload PDF\n\n\n\n\nHomework 3\nDue: 10/08/2024 11.59pm PT\n\nDownload PDF\n\n\n\n\nHomework 4\nDue: 10/22/2024 11.59pm PT\n\nDownload PDF\n\n\n\n\nHomework 5\nDue: 11/12/2024 11.59pm PT\n\nDownload PDF\n\n\n\n\nHomework 6\nDue: 11/26/2024 11.59pm PT\n\nDownload PDF"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Statistics 215b: Statistical Models: Theory and Application",
+    "section": "",
+    "text": "Gradescope\n\n  Ed Discussion\n\nNo matching items\n\n\n\n\n\n\n\nNoteWelcome To 215B\n\n\n\nWelcome to 215B! Some quick setup instructions:\n\nFor Ed: sign up here (must use your Berkeley email)\nFor Gradescope: use the course code X8GP76 to join the class on Gradescope\n\nAlso refer to the syllabus page for the full syllabus.\n\n\n\nWeek 1\n\n   \n   \n   \n   \n   \n   \n\n        \n\n           \n           \n           Jan 20:\n           \n           Lecture 1 Syllabus\n           \n                \n           \n                \n           \n        \n   \n\n        \n\n           \n           \n           Jan 22:\n           \n           Lecture 2 \n           \n                \n           \n                \n           \n        \n\n           \n           \n           Reading 1 Google Flu Parable\n           \n                \n           \n                \n           \n        \n\n           \n           \n           Reading 1 Detecting Influenza\n           \n                \n           \n                \n           \n        \n   \n   \n   \n  \n\n   Week 2\n\n   \n   \n   \n   \n   \n   \n\n        \n\n           \n           \n           Jan 27:\n           \n           Lecture 3 \n           \n                \n           \n                \n           \n        \n\n           \n           \n           Reading 2 Dissecting Racial Bias\n           \n                \n           \n                \n           \n        \n\n           \n           \n           Reading 3 Freedman's Statistical Models - Shoe Leather\n           \n                \n           \n                \n           \n        \n   \n\n        \n\n           \n           \n           Jan 29:\n           \n           Lecture 4 \n           \n                \n           \n                \n           \n        \n\n           \n           \n           Reading 4 Prediction Policy Problems\n           \n                \n           \n                \n           \n        \n\n           \n           \n           Reading 5 Pay No Attention to Model Behind the Curtain\n           \n                \n           \n                \n           \n        \n   \n   \n   \nNo matching items",
+    "crumbs": [
+      "Home / Schedule"
+    ]
+  },
+  {
     "objectID": "units/unit2.html",
     "href": "units/unit2.html",
     "title": "Unit 2: Next",
@@ -39,7 +146,7 @@
     "href": "units/unit1.html#evaluated-python-code-chunk-with-a-plot",
     "title": "Unit 1: Intro",
     "section": "Evaluated Python code chunk, with a plot",
-    "text": "Evaluated Python code chunk, with a plot\n\n\nCode\nimport numpy as np\nx = np.random.normal(size=100)\nimport matplotlib.pyplot as plt\nplt.hist(x)\nplt.show()\nnp.mean(x)\n\n\n\n\n\n\n\n\n\nnp.float64(-0.18584114117593165)"
+    "text": "Evaluated Python code chunk, with a plot\n\n\nCode\nimport numpy as np\nx = np.random.normal(size=100)\nimport matplotlib.pyplot as plt\nplt.hist(x)\nplt.show()\nnp.mean(x)\n\n\n\n\n\n\n\n\n\nnp.float64(0.14226356778733126)"
   },
   {
     "objectID": "units/unit1.html#latex",
@@ -68,13 +175,6 @@
     "title": "Unit 1: Intro",
     "section": "Tabset",
     "text": "Tabset\n\nRPython\n\n\nThis code is not executed.\nfizz_buzz &lt;- function(fbnums = 1:50) {\n  output &lt;- dplyr::case_when(\n    fbnums %% 15 == 0 ~ \"FizzBuzz\",\n    fbnums %% 3 == 0 ~ \"Fizz\",\n    fbnums %% 5 == 0 ~ \"Buzz\",\n    TRUE ~ as.character(fbnums)\n  )\n  print(output)\n}\n\nfizz_buzz(3)\n\n\nThis code is executed.\n\n\nCode\ndef fizz_buzz(num):\n  if num % 15 == 0:\n    print(\"FizzBuzz\")\n  elif num % 5 == 0:\n    print(\"Buzz\")\n  elif num % 3 == 0:\n    print(\"Fizz\")\n  else:\n    print(num)\n    \nfizz_buzz(3)\n\n\nFizz"
-  },
-  {
-    "objectID": "assignments.html",
-    "href": "assignments.html",
-    "title": "Reading assignments for 256",
-    "section": "",
-    "text": "Evaluation\nEach week those of you in 256 will read research papers and write a report describing the research and your evaluation of the work. Each report should be 2-3 pages double-spaced. See below for the list of papers and due dates. You will submit your report on gradescope.\nThe reports will be graded based on  • Correct identification of the research question  • Accurate summary of the method used in the papers  • Clear summary of the key results  • Thoughtful overall evaluation of the paper (e.g., evaluating the significance, novelty, relevance of the contribution)\n\n\nPapers\n\n\n\nReading\nLink\nDue date\n\n\n\n\nBickel et al 1975 Science: Sex Bias in Graduate Admissions: Data from Berkeley\nLink\n9/10/24\n\n\nHolland 1986 JASA Statistics and Causal Inference\nLink\n9/17/24\n\n\nMiratrix 2013 JRSSB Adjusting treatment effect estimates by post-stratication in randomized experiments\nLink\n9/24/24\n\n\nLin 2013 AOAS: Agnostic notes on regression adjustments to experimental data: Reexamining Freedmans critique\nLink\n10/01/24\n\n\nLi, Ding and Rubin 2018 PNAS Asymptotic theory of rerandomization in treatment-control experiments\nLink\n10/08/24\n\n\nRosenbaum and Rubin 1983 Biometrika: The central role of the propensity score in observational studies for causal effects\nLink\n10/15/24\n\n\nLunceford and Davidian 2004 SiM Stratification and weighting via the propensity score in estimation of causal treatment effects: a comparative study\nLink\n10/22/24\n\n\nAngrist Imbens and Rubin 1996 JASA Identification of causal effects using instrumental variables\nLink\n10/29/24\n\n\nImbens 2014 StatSci Instrumental Variables: An Econometricians Perspective\nLink\n11/5/24\n\n\nDing and VanderWeele 2016 Epidemiology: Sensitivity Analysis Without Assumptions\nLink\n11/12/24\n\n\nPearl 1995 Biometrika Causal diagrams for empirical research\nLink\n11/19/24\n\n\nFrangakis and Rubin 2002 Biometrics Principal stratification in causal inference\nLink\n11/26/24"
   },
   {
     "objectID": "syllabus.html",
@@ -107,61 +207,6 @@
     ]
   },
   {
-    "objectID": "videos.html",
-    "href": "videos.html",
-    "title": "Video Paper Presentations for 256",
-    "section": "",
-    "text": "Navigation\n\nGuidelines\n\n\n\nGuidelines\n\nDownload PDF"
-  },
-  {
-    "objectID": "license.html",
-    "href": "license.html",
-    "title": "License",
-    "section": "",
-    "text": "This work is licensed under a Creative Commons Attribution 4.0 International License.",
-    "crumbs": [
-      "License"
-    ]
-  },
-  {
-    "objectID": "data.html",
-    "href": "data.html",
-    "title": "Data",
-    "section": "",
-    "text": "[UNDER CONSTRUCTION]\nWe’ll use data from several real world situations in class."
-  },
-  {
-    "objectID": "data.html#data-1",
-    "href": "data.html#data-1",
-    "title": "Data",
-    "section": "Data 1",
-    "text": "Data 1"
-  },
-  {
-    "objectID": "data.html#data-2",
-    "href": "data.html#data-2",
-    "title": "Data",
-    "section": "Data 2",
-    "text": "Data 2"
-  },
-  {
-    "objectID": "homeworks.html",
-    "href": "homeworks.html",
-    "title": "Homeworks for 156",
-    "section": "",
-    "text": "Navigation\n\nHomework 1\nHomework 2\nHomework 3\nHomework 4\nHomework 5\nHomework 6\n\n\n\nHomework 1\nDue: 9/10/2024 11.59pm PT\n\nDownload PDF\n\n\n\n\nHomework 2\nDue: 9/24/2024 11.59pm PT\n\nDownload PDF\n\n\n\n\nHomework 3\nDue: 10/08/2024 11.59pm PT\n\nDownload PDF\n\n\n\n\nHomework 4\nDue: 10/22/2024 11.59pm PT\n\nDownload PDF\n\n\n\n\nHomework 5\nDue: 11/12/2024 11.59pm PT\n\nDownload PDF\n\n\n\n\nHomework 6\nDue: 11/26/2024 11.59pm PT\n\nDownload PDF"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Statistics 215b: Statistical Models: Theory and Application",
-    "section": "",
-    "text": "Gradescope\n\n  Ed Discussion\n\nNo matching items\n\n\n\n\n\n\n\nNoteWelcome To 215B\n\n\n\nWelcome to 215B! Some quick setup instructions:\n\nFor Ed: sign up here (must use your Berkeley email)\nFor Gradescope: use the course code X8GP76 to join the class on Gradescope\n\nAlso refer to the syllabus page for the full syllabus.\n\n\n\nWeek 1\n\n   \n   \n   \n   \n   \n   \n\n        \n\n           \n           \n           Jan 20:\n           \n           Lecture 1 Syllabus\n           \n                \n           \n                \n           \n        \n   \n\n        \n\n           \n           \n           Jan 22:\n           \n           Lecture 2 \n           \n                \n           \n                \n           \n        \n\n           \n           \n           Reading 1 Google Flu Parable\n           \n                \n           \n                \n           \n        \n\n           \n           \n           Reading 1 Detecting Influenza\n           \n                \n           \n                \n           \n        \n   \n   \n   \n  \n\n   Week 2\n\n   \n   \n   \n   \n   \n   \n\n        \n\n           \n           \n           Jan 27:\n           \n           Lecture 3 \n           \n                \n           \n                \n           \n        \n\n           \n           \n           Reading 2 Dissecting Racial Bias\n           \n                \n           \n                \n           \n        \n\n           \n           \n           Reading 3 Freedman's Statistical Models - Shoe Leather\n           \n                \n           \n                \n           \n        \n   \n\n        \n\n           \n           \n           Jan 29:\n           \n           Lecture 4 \n           \n                \n           \n                \n           \n        \n\n           \n           \n           Reading 4 Prediction Policy Problems\n           \n                \n           \n                \n           \n        \n\n           \n           \n           Reading 5 Pay No Attention to Model Behind the Curtain\n           \n                \n           \n                \n           \n        \n   \n   \n   \nNo matching items",
-    "crumbs": [
-      "Home / Schedule"
-    ]
-  },
-  {
     "objectID": "project.html",
     "href": "project.html",
     "title": "Project for 156/256",
@@ -169,55 +214,10 @@
     "text": "Navigation\n\nProject Guidelines\n\n\n\nGuidelines\n\nDownload PDF"
   },
   {
-    "objectID": "staff.html",
-    "href": "staff.html",
-    "title": "Staff",
+    "objectID": "videos.html",
+    "href": "videos.html",
+    "title": "Video Paper Presentations for 256",
     "section": "",
-    "text": "Office hours are subject to change.\n\n\n\nInstructor: Amanda Coston acoston@berkeley.edu Office hours: Thursday 3:30-4:30pm, Evans 1011\n\n\nGSI: Nicolas Sanchez nicolas_sanchez_ep@berkeley.edu Office hours:  • Tuesday: Noon-1:00 PM, Evans 444  • Wednesday: 1:00-2:00 PM, Evans 444",
-    "crumbs": [
-      "Staff"
-    ]
-  },
-  {
-    "objectID": "calendar.html",
-    "href": "calendar.html",
-    "title": "Calendar",
-    "section": "",
-    "text": "[UNDER CONSTRUCTION]\nWe can just embed the iframe html:"
-  },
-  {
-    "objectID": "units/unit3.html",
-    "href": "units/unit3.html",
-    "title": "Unit 3: More",
-    "section": "",
-    "text": "[UNDER CONSTRUCTION]\nThis is an example of using qmd as the source document with pdf as one target. I’ve taken out the qmd stuff that doesn’t seem to render to pdf."
-  },
-  {
-    "objectID": "units/unit3.html#evaluated-python-code-chunk-with-a-plot",
-    "href": "units/unit3.html#evaluated-python-code-chunk-with-a-plot",
-    "title": "Unit 3: More",
-    "section": "Evaluated Python code chunk, with a plot",
-    "text": "Evaluated Python code chunk, with a plot\n\n\nCode\nimport numpy as np\nx = np.random.normal(size=100)\nimport matplotlib.pyplot as plt\nplt.hist(x)\nplt.show()\nnp.mean(x)\n\n\n\n\n\n\n\n\n\nnp.float64(0.06595408575408998)"
-  },
-  {
-    "objectID": "units/unit3.html#latex",
-    "href": "units/unit3.html#latex",
-    "title": "Unit 3: More",
-    "section": "LaTeX",
-    "text": "LaTeX\n\\[\n\\theta = \\int_0^\\infty f(x,\\theta)d\\theta\n\\]"
-  },
-  {
-    "objectID": "units/unit3.html#latex-macro",
-    "href": "units/unit3.html#latex-macro",
-    "title": "Unit 3: More",
-    "section": "LaTeX macro",
-    "text": "LaTeX macro\n\nWarning: having include-before-body in the yaml header of this file, as seemingly needed to enable macros, causes extra space at top of page.\n\n\\[\nA = X \\trans Y\n\\]"
-  },
-  {
-    "objectID": "units/macros.html",
-    "href": "units/macros.html",
-    "title": "",
-    "section": "",
-    "text": "\\[\n\\newcommand{\\trans}{^\\mathsf{T}}\n\\newcommand{\\eps}{\\epsilon}\n\\]"
+    "text": "Navigation\n\nGuidelines\n\n\n\nGuidelines\n\nDownload PDF"
   }
 ]
