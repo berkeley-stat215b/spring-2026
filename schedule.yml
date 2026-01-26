@@ -44,3 +44,27 @@
           id: "5"
           name: Pay No Attention to Model Behind the Curtain
           href: "./Stark_curtain.pdf"
+
+
+- week: 3
+  days:
+    - date: "Feb 3"
+      items:
+        - type: "Lecture"
+          id: "5"
+        - type: "Reading"
+          id: "6"
+          name: What is the estimand?
+          href: "./lundberg-estimand.pdf"
+    - date: "Feb 5"
+      items:
+        - type: "Lecture"
+          id: "6"
+        - type: "Reading"
+          id: "7"
+          name: Stability
+          href: "./Yu-stability13.pdf"
+        - type: "Reading"
+          id: "7"
+          name: Prediction Powered Inference
+          href: "./AngelopoulosPPIScience2023.pdf"
