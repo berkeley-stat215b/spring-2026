@@ -44,6 +44,12 @@
           id: "5"
           name: Pay No Attention to Model Behind the Curtain
           href: "./Stark_curtain.pdf"
+    - date: "Jan 31"
+      items:
+        - type: "Assignment"
+          id: "1"
+          name: Assignment 1 Released - Due Feb 14
+          href: "./215b_assignment1.pdf"
 
 
 - week: 3
