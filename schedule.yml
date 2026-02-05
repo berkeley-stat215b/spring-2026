@@ -74,3 +74,36 @@
           id: "7"
           name: Prediction Powered Inference
           href: "./AngelopoulosPPIScience2023.pdf"
+
+
+- week: 4
+  days:
+    - date: "Feb 10"
+      items:
+        - type: "Lecture"
+          id: "7"
+        - type: "Reading"
+          id: "8"
+          name: Preregistration Revolution
+          href: "./PreReg_revolution.pdf"
+        - type: "Reading"
+          id: "9"
+          name: Preregistration for Predictive Modeling
+          href: "./ml_prereg.pdf"
+    - date: "Feb 12"
+      items:
+        - type: "Lecture"
+          id: "8"
+        - type: "Reading"
+          id: "10"
+          name: COVID-19 antibody seroprevalence
+          href: "./covid-seroprevalence.pdf"
+        - type: "Reading"
+          id: "11"
+          name: Concerns with that Stanford study of coronavirus prevalence
+          href: "https://statmodeling.stat.columbia.edu/2020/04/19/fatal-flaws-in-stanford-study-of-coronavirus-prevalence/?utm_source=chatgpt.com"
+        - type: "Reading"
+          id: "12"
+          name: Reverse Engineering Priors in Coronavirus Discourse
+          href: "https://statmodeling.stat.columbia.edu/2020/04/28/reverse-engineering-priors-in-coronavirus-discourse/?utm_source=chatgpt.com"
+
