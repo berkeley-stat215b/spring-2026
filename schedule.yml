@@ -107,3 +107,31 @@
           name: Reverse Engineering Priors in Coronavirus Discourse
           href: "https://statmodeling.stat.columbia.edu/2020/04/28/reverse-engineering-priors-in-coronavirus-discourse/?utm_source=chatgpt.com"
 
+
+- week: 5
+  days:
+    - date: "Feb 17"
+      items:
+        - type: "Lecture"
+          id: "9"
+        - type: "Reading"
+          id: "13"
+          name: Bickel Sex Bias in Admissions
+          href: "./bickel_gender_admissions.pdf"
+        - type: "Reading"
+          id: "14"
+          name: Greenland Collapsibility and Confounding
+          href: "./collapsibility_greenland.pdf"
+    - date: "Feb 19"
+      items:
+        - type: "Lecture"
+          id: "10"
+        - type: "Reading"
+          id: "15"
+          name: Holland
+          href: "./holland_fundamental.pdf"
+        - type: "Reading"
+          id: "16"
+          name: Pearl
+          href: "./pearl_causal.pdf"
+
