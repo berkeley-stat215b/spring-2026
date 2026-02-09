@@ -90,6 +90,10 @@
           id: "9"
           name: Preregistration for Predictive Modeling
           href: "./ml_prereg.pdf"
+        - type: "Project"
+          id: "1"
+          name: Project Proposal - Due Mar 3
+          href: "./project_proposal.pdf"
     - date: "Feb 12"
       items:
         - type: "Lecture"
