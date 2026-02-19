@@ -139,3 +139,13 @@
           name: Pearl
           href: "./pearl_causal.pdf"
 
+- week: 6
+  days:
+    - date: "Feb 24"
+      items:
+        - type: "Lecture"
+          id: "11"
+        - type: "Reading"
+          id: "17"
+          name: Pretrial Public Safety Assessment
+          href: "./exp_eval_algo.pdf"
