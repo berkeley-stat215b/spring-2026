@@ -149,3 +149,19 @@
           id: "17"
           name: Pretrial Public Safety Assessment
           href: "./exp_eval_algo.pdf"
+        - type: "Assignment"
+          id: "2"
+          name: Assignment 2 Released - Due Mar 10
+          href: "./assignment2.zip"
+    - date: "Feb 26"
+      items:
+        - type: "Lecture"
+          id: "12"
+        - type: "Reading"
+          id: "18"
+          name: Pate and Hamilton (1992)
+          href: "./pate_hamilton.pdf"
+        - type: "Reading"
+          id: "19"
+          name: Heterogeneous effects of Medicaid
+          href: "./heterogeneous_effects_medicaid_coverage.pdf"
