@@ -152,7 +152,7 @@
         - type: "Assignment"
           id: "2"
           name: Assignment 2 Released - Due Mar 10
-          href: "./assignment2.zip"
+          href: "https://drive.google.com/file/d/1A6VAZz-4zVopF4z3-mAvUC3OESuSqx0h/view?usp=sharing"
     - date: "Feb 26"
       items:
         - type: "Lecture"
