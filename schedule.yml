@@ -165,3 +165,14 @@
           id: "19"
           name: Heterogeneous effects of Medicaid
           href: "./heterogeneous_effects_medicaid_coverage.pdf"
+
+- week: 7
+  days:
+    - date: "Mar 3"
+      items:
+        - type: "Lecture"
+          id: "13"
+        - type: "Reading"
+          id: "20"
+          name: Randomization and Logistic Regression
+          href: "./randomization_logistic_freedman.pdf"
