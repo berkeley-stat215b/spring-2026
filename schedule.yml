@@ -174,5 +174,22 @@
           id: "13"
         - type: "Reading"
           id: "20"
-          name: Randomization and Logistic Regression
+          name: Randomization and Logistic Regression (Bring LAPTOPS!)
           href: "./randomization_logistic_freedman.pdf"
+    - date: "Mar 5"
+      items:
+        - type: "Lecture"
+          id: "14"
+        - type: "Reading"
+          id: "21"
+          name: Propensity Score For Generalizability
+          href: "./propen_score.pdf"
+
+- week: 8
+  days:
+    - date: "Mar 10"
+      items:
+        - type: "Lecture"
+          id: "15"
+          name: NO LECTURE FOR VISIT DAY
+

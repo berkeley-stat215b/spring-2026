@@ -5,3 +5,4 @@ quarto_env
 .DS_Store
 **/*.quarto_ipynb
 venv/
+.zip
