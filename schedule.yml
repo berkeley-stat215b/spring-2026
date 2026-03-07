@@ -192,4 +192,19 @@
         - type: "Lecture"
           id: "15"
           name: NO LECTURE FOR VISIT DAY
-
+    - date: "Mar 12"
+      items:
+        - type: "Lecture"
+          id: "16"
+        - type: "Reading"
+          id: "22"
+          name: Rosenbaum and Rubin (1983)
+          href: "./RnR_Biometrika.pdf"
+        - type: "Reading"
+          id: "23"
+          name: Hormone Therapy and Cardiovascular Disease
+          href: "./hrt_resolving.pdf"
+        - type: "Reading"
+          id: "24"
+          name: Match-adaptive Randomization inference 
+          href: "./matching_hrt.pdf"
