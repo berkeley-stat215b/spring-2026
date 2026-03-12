@@ -208,3 +208,32 @@
           id: "24"
           name: Match-adaptive Randomization inference 
           href: "./matching_hrt.pdf"
+  
+
+- week: 9
+  days:
+    - date: "Mar 17"
+      items:
+        - type: "Lecture"
+          id: "17"
+        - type: "Reading"
+          id: "25"
+          name: Deepsurv:Personalized Treatment Recommender
+          href: "./deepsurv.pdf"
+        - type: "Reading"
+          id: "26"
+          name: Deepsurv:Survival Analysis with for surgical treatment
+          href: "./deepsurv_pancreatic.pdf"
+    - date: "Mar 19"
+      items:
+        - type: "Lecture"
+          id: "18"
+          name: Guest Lecture by Emma Pierson
+        - type: "Reading"
+          id: "27"
+          name: Pierson:Race in Clinical Algorithms
+          href: "./pierson_public_opinion_race.pdf"
+        - type: "Reading"
+          id: "28"
+          name: Pierson:Hypothesis Generation
+          href: "./pierson_hypothesis_generation"
