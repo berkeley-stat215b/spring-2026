@@ -236,4 +236,8 @@
         - type: "Reading"
           id: "28"
           name: Pierson:Hypothesis Generation
-          href: "./pierson_hypothesis_generation"
+          href: "./pierson_hypothesis_generation.pdf"
+        - type: "Assignment"
+          id: "3"
+          name: Assignment 3 Released - Due April 1
+          href: "./215B_assign3.pdf"
