@@ -241,3 +241,19 @@
           id: "3"
           name: Assignment 3 Released - Due April 1
           href: "./215B_assign3.pdf"
+
+- week: 9
+  days:
+    - date: "Apr 7"
+      items:
+        - type: "Lecture"
+          id: "19"
+        - type: "Reading"
+          id: "29"
+          name: Fair Prediction
+          href: "./fair_prediction_chouldechova.pdf"
+        - type: "Reading"
+          id: "30"
+          name: Measure of Fairness
+          href: "./measure_fairness.pdf"
+
