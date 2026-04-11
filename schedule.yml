@@ -257,3 +257,39 @@
           name: Measure of Fairness
           href: "./measure_fairness.pdf"
 
+
+- week: 10
+  days:
+    - date: "Apr 14"
+      items:
+        - type: "Lecture"
+          id: "20"
+        - type: "Reading"
+          id: "31"
+          name: Freedman Bootstrp
+          href: "./freedman_bootstrap.pdf"
+        - type: "Reading"
+          id: "32"
+          name: Cherian / Candes Fairness
+          href: "./cherian_fairness.pdf"
+        - type: "Assignment"
+          id: "4"
+          name: Assignment 4 Released - Due Apr 21
+          href: "https://drive.google.com/drive/folders/1rO3HS9Wc14BhQJGybf8HrJyvAvLHdaI0?usp=sharing"
+        - type: "Project"
+          id: "2"
+          name: Project Guidelines
+          href: "./project_guidelines.pdf"
+    
+    - date: "Apr 16"
+      items:
+        - type: "Lecture"
+          id: "21"
+        - type: "Reading"
+          id: "33"
+          name: Duchi/Namkoong DRO
+          href: "./duchi_DRO.pdf"
+        - type: "Reading"
+          id: "34"
+          name: Gopalan/Kim Multicalibration
+          href: "./gopalan_multicalibration.pdf"
