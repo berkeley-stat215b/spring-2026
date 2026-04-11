@@ -266,7 +266,7 @@
           id: "20"
         - type: "Reading"
           id: "31"
-          name: Freedman Bootstrp
+          name: Freedman Bootstrap
           href: "./freedman_bootstrap.pdf"
         - type: "Reading"
           id: "32"
