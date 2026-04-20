@@ -308,3 +308,15 @@
           id: "36"
           name: Model Collapse - Shumailov et al 
           href: "./model_collapse.pdf"
+    - date: "Apr 23"
+      items:
+        - type: "Lecture"
+          id: "23"
+        - type: "Reading"
+          id: "37"
+          name: RLHF 
+          href: "./RLHF.pdf"
+        - type: "Reading"
+          id: "38"
+          name: Distortion
+          href: "./distortion.pdf"
